@@ -6,10 +6,12 @@
 | ------- |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Tree
 |  |
 | ------- |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 <!---LeetCode Topics End-->

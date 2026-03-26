@@ -7,11 +7,13 @@
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ChandraKiran-30/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ChandraKiran-30/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Tree
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+## Hash Table
+|  |
+| ------- |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ChandraKiran-30/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->

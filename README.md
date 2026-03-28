@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -52,6 +53,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 ## Sliding Window
 |  |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/ChandraKiran-30/LeetCode/tree/master/0724-find-pivot-index) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/ChandraKiran-30/LeetCode/tree/master/0724-find-pivot-index) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 ## Sliding Window
 |  |

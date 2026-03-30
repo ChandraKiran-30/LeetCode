@@ -66,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ChandraKiran-30/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -89,4 +90,9 @@
 |  |
 | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Sorting
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->

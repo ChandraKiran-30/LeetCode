@@ -28,6 +28,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ChandraKiran-30/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ChandraKiran-30/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ChandraKiran-30/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->

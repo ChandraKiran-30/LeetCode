@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/ChandraKiran-30/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -55,10 +56,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
@@ -107,5 +110,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->

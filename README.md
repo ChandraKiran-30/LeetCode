@@ -71,6 +71,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ChandraKiran-30/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 ## Sliding Window
@@ -103,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting

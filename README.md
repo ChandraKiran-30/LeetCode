@@ -10,6 +10,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/ChandraKiran-30/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -75,6 +76,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/ChandraKiran-30/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 ## Sliding Window
 |  |

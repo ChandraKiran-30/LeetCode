@@ -99,6 +99,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ChandraKiran-30/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -113,6 +114,7 @@
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ChandraKiran-30/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |

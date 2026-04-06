@@ -12,6 +12,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/ChandraKiran-30/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ChandraKiran-30/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1991-find-the-middle-index-in-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -79,6 +80,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/ChandraKiran-30/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ChandraKiran-30/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1991-find-the-middle-index-in-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 ## Sliding Window
 |  |

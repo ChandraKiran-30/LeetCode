@@ -19,6 +19,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ChandraKiran-30/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/ChandraKiran-30/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Recursion
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 | ------- |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->

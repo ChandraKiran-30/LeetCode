@@ -22,6 +22,7 @@
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ChandraKiran-30/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/ChandraKiran-30/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ChandraKiran-30/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |

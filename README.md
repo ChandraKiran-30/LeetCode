@@ -11,6 +11,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/ChandraKiran-30/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ChandraKiran-30/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ChandraKiran-30/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ChandraKiran-30/LeetCode/tree/master/2574-left-and-right-sum-differences) |

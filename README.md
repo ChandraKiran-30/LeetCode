@@ -6,6 +6,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
+| [0575-distribute-candies](https://github.com/ChandraKiran-30/LeetCode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/ChandraKiran-30/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -99,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/ChandraKiran-30/LeetCode/tree/master/0575-distribute-candies) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ChandraKiran-30/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/ChandraKiran-30/LeetCode/tree/master/2848-points-that-intersect-with-cars) |

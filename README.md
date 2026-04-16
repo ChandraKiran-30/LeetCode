@@ -7,6 +7,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/ChandraKiran-30/LeetCode/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ChandraKiran-30/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -97,6 +98,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
 |  |

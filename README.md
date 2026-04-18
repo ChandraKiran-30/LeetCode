@@ -119,6 +119,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ChandraKiran-30/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ChandraKiran-30/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |

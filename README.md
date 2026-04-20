@@ -17,6 +17,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ChandraKiran-30/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ChandraKiran-30/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ChandraKiran-30/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/ChandraKiran-30/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ChandraKiran-30/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->

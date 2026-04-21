@@ -12,6 +12,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/ChandraKiran-30/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/ChandraKiran-30/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ChandraKiran-30/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/ChandraKiran-30/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
 |  |

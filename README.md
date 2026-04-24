@@ -154,6 +154,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/ChandraKiran-30/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ChandraKiran-30/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
@@ -185,4 +186,5 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2833-furthest-point-from-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->

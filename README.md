@@ -111,6 +111,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ChandraKiran-30/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ChandraKiran-30/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ChandraKiran-30/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Sorting
 |  |
 | ------- |

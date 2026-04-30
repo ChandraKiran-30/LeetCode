@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/ChandraKiran-30/LeetCode/tree/master/0575-distribute-candies) |
@@ -44,6 +45,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChandraKiran-30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/ChandraKiran-30/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -62,12 +64,14 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChandraKiran-30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChandraKiran-30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/ChandraKiran-30/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -177,6 +181,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |

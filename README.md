@@ -7,6 +7,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ChandraKiran-30/LeetCode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ChandraKiran-30/LeetCode/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
@@ -140,6 +142,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ChandraKiran-30/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |

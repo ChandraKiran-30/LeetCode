@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
+| [0788-rotated-digits](https://github.com/ChandraKiran-30/LeetCode/tree/master/0788-rotated-digits) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
@@ -133,6 +134,7 @@
 ## Math
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/ChandraKiran-30/LeetCode/tree/master/0788-rotated-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/ChandraKiran-30/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |

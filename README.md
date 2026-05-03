@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ChandraKiran-30/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -205,4 +206,8 @@
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/2833-furthest-point-from-origin) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

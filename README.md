@@ -19,6 +19,7 @@
 | [1732-find-the-highest-altitude](https://github.com/ChandraKiran-30/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ChandraKiran-30/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/ChandraKiran-30/LeetCode/tree/master/1861-rotating-the-box) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ChandraKiran-30/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ChandraKiran-30/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -92,6 +93,7 @@
 | [0048-rotate-image](https://github.com/ChandraKiran-30/LeetCode/tree/master/0048-rotate-image) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1861-rotating-the-box](https://github.com/ChandraKiran-30/LeetCode/tree/master/1861-rotating-the-box) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
@@ -197,6 +199,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/ChandraKiran-30/LeetCode/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/ChandraKiran-30/LeetCode/tree/master/1861-rotating-the-box) |
 ## Greedy
 |  |
 | ------- |

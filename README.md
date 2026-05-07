@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChandraKiran-30/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChandraKiran-30/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1861-rotating-the-box](https://github.com/ChandraKiran-30/LeetCode/tree/master/1861-rotating-the-box) |
@@ -149,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ChandraKiran-30/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |

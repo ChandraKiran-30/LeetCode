@@ -9,6 +9,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandraKiran-30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChandraKiran-30/LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0189-rotate-array) |
 | [0788-rotated-digits](https://github.com/ChandraKiran-30/LeetCode/tree/master/0788-rotated-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/ChandraKiran-30/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/ChandraKiran-30/LeetCode/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandraKiran-30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0189-rotate-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ChandraKiran-30/LeetCode/tree/master/1861-rotating-the-box) |
 ## Greedy

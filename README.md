@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/ChandraKiran-30/LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandraKiran-30/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandraKiran-30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandraKiran-30/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ChandraKiran-30/LeetCode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/ChandraKiran-30/LeetCode/tree/master/0788-rotated-digits) |

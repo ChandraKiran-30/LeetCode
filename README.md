@@ -34,6 +34,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChandraKiran-30/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ChandraKiran-30/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/ChandraKiran-30/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ChandraKiran-30/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/ChandraKiran-30/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -83,6 +84,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChandraKiran-30/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/ChandraKiran-30/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0575-distribute-candies](https://github.com/ChandraKiran-30/LeetCode/tree/master/0575-distribute-candies) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ChandraKiran-30/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2540-minimum-common-value](https://github.com/ChandraKiran-30/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/ChandraKiran-30/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/ChandraKiran-30/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
@@ -225,6 +228,7 @@
 | [0189-rotate-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0189-rotate-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChandraKiran-30/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ChandraKiran-30/LeetCode/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/ChandraKiran-30/LeetCode/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |

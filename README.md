@@ -38,6 +38,7 @@
 | [2540-minimum-common-value](https://github.com/ChandraKiran-30/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ChandraKiran-30/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ChandraKiran-30/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/ChandraKiran-30/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -52,6 +53,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ChandraKiran-30/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ChandraKiran-30/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -152,6 +154,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ChandraKiran-30/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2540-minimum-common-value](https://github.com/ChandraKiran-30/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChandraKiran-30/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ChandraKiran-30/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/ChandraKiran-30/LeetCode/tree/master/2848-points-that-intersect-with-cars) |

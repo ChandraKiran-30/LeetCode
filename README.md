@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChandraKiran-30/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/ChandraKiran-30/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ChandraKiran-30/LeetCode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -223,6 +224,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChandraKiran-30/LeetCode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/ChandraKiran-30/LeetCode/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandraKiran-30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0189-rotate-array) |
@@ -232,6 +234,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChandraKiran-30/LeetCode/tree/master/0011-container-with-most-water) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChandraKiran-30/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
 |  |

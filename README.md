@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ChandraKiran-30/LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ChandraKiran-30/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ChandraKiran-30/LeetCode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -84,6 +85,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraKiran-30/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandraKiran-30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |

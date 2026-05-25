@@ -148,6 +148,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ChandraKiran-30/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChandraKiran-30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChandraKiran-30/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/ChandraKiran-30/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -162,6 +163,7 @@
 | [0001-two-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ChandraKiran-30/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChandraKiran-30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandraKiran-30/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ChandraKiran-30/LeetCode/tree/master/0575-distribute-candies) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -212,6 +214,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ChandraKiran-30/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChandraKiran-30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |

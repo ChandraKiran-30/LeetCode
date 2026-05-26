@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ChandraKiran-30/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ChandraKiran-30/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ChandraKiran-30/LeetCode/tree/master/0053-maximum-subarray) |
@@ -230,6 +231,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/0015-3sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ChandraKiran-30/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2784-check-if-array-is-good](https://github.com/ChandraKiran-30/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChandraKiran-30/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/ChandraKiran-30/LeetCode/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandraKiran-30/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChandraKiran-30/LeetCode/tree/master/0189-rotate-array) |

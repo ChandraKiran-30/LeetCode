@@ -231,6 +231,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ChandraKiran-30/LeetCode/tree/master/0206-reverse-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
@@ -315,6 +316,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ChandraKiran-30/LeetCode/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/ChandraKiran-30/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Rolling Hash
 |  |
 | ------- |

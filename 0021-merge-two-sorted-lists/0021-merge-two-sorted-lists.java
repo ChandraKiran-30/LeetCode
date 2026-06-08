@@ -23,16 +23,7 @@ class Solution {
             }
             curr = curr.next;
         }
-        while (list1 != null) {
-            curr.next = list1;
-            curr = curr.next;
-            list1 = list1.next;
-        }
-        while (list2 != null) {
-            curr.next = list2;
-            curr = curr.next;
-            list2 = list2.next;
-        }
+        curr.next = (list1 != null) ? list1 : list2;
         return dummy.next;
     }
 }

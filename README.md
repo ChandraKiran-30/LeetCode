@@ -244,6 +244,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandraKiran-30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ChandraKiran-30/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ChandraKiran-30/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ChandraKiran-30/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChandraKiran-30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -334,4 +335,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ChandraKiran-30/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ChandraKiran-30/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

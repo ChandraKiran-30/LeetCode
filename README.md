@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ChandraKiran-30/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ChandraKiran-30/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandraKiran-30/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/ChandraKiran-30/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -188,6 +189,7 @@
 | [0141-linked-list-cycle](https://github.com/ChandraKiran-30/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/ChandraKiran-30/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChandraKiran-30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandraKiran-30/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ChandraKiran-30/LeetCode/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/ChandraKiran-30/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -341,4 +343,9 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChandraKiran-30/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ChandraKiran-30/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

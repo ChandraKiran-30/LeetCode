@@ -242,6 +242,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ChandraKiran-30/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ChandraKiran-30/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
@@ -343,9 +344,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChandraKiran-30/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ChandraKiran-30/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ChandraKiran-30/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ChandraKiran-30/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

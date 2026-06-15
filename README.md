@@ -246,6 +246,7 @@
 | [0155-min-stack](https://github.com/ChandraKiran-30/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ChandraKiran-30/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ChandraKiran-30/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/ChandraKiran-30/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## String
 |  |
 | ------- |
@@ -365,4 +366,9 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ChandraKiran-30/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/ChandraKiran-30/LeetCode/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/ChandraKiran-30/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ChandraKiran-30/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

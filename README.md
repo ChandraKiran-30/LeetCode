@@ -254,6 +254,7 @@
 | [0076-minimum-window-substring](https://github.com/ChandraKiran-30/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ChandraKiran-30/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChandraKiran-30/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0649-dota2-senate](https://github.com/ChandraKiran-30/LeetCode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/ChandraKiran-30/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ChandraKiran-30/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -310,6 +311,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChandraKiran-30/LeetCode/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/ChandraKiran-30/LeetCode/tree/master/0649-dota2-senate) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChandraKiran-30/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ChandraKiran-30/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ChandraKiran-30/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -362,4 +364,5 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ChandraKiran-30/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/ChandraKiran-30/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->

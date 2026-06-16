@@ -234,6 +234,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChandraKiran-30/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/ChandraKiran-30/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/ChandraKiran-30/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Recursion
@@ -272,6 +273,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ChandraKiran-30/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/ChandraKiran-30/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ChandraKiran-30/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
